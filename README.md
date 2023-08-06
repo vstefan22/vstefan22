@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stock-screener for company from Singapore**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 💬 Ask me about **Python, Django, JavaScript, HTML5, CSS3**
 
