@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi , I'm Stefan</h1>
 <h3 align="center">A full-stack web developer from Bosnia</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/50NA7vr.gif">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/XzYY9fZM6sNFe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstefan22&label=Profile%20views&color=0e75b6&style=flat" alt="vstefan22" /> </p>
 
