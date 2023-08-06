@@ -14,8 +14,7 @@
 - 📫 How to reach me **stefan.programming22@gmail.com**
 
 - ⚡ Fun fact **I am focused and motivated Computer Science student**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
