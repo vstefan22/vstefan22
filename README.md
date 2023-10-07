@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python, Django, JavaScript, HTML5, CSS3**
 
-- 📫 How to reach me **stefan.programming22@gmail.com**
-
 - ⚡ Fun fact **I am focused and motivated Computer Science student**
 - 
 <p align="left">
