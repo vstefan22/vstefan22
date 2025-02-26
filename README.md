@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript and React**
 
-- 💬 Ask me about **Python, Django, JavaScript, TypeScript, React, HTML5, CSS3**
+- 💬 Ask me about **Python, Django, JavaScript, TypeScript, Next.js, React, HTML5, CSS3**
 
 - ⚡ Fun fact **I am focused and motivated Computer Science student**
   
