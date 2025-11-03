@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vstefan22&label=Profile%20views&color=0e75b6&style=flat" alt="vstefan22" /> </p>
 
-- 🔭 I’m currently working on **Stock-screener for company from Singapore**
+- 🔭 I’m currently working on **Content selling platform for company from Hungary**
 
-- 🌱 I’m currently learning **TypeScript and React**
 
 - 💬 Ask me about **Python, Django, JavaScript, TypeScript, Next.js, React, HTML5, CSS3**
 
-- ⚡ Fun fact **I am focused and motivated Computer Science student**
+- ⚡ Fun fact **I am a focused and motivated Computer Science student**
   
 <p align="left">
 </p>
